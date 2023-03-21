@@ -1,19 +1,16 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Template Name: Nekmit
+Template Name: TechSoln.Co
 File: Licence
-Author: OS Templates
-Author URI: https://www.os-templates.com/
-Licence URI: https://www.os-templates.com/template-terms
-
+Author: fidelis mutuku
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 IPR
 ---
 
-Intellectual Property Rights (IPR) belong to and stay with OS Templates and the their owner(s).
+Intellectual Property Rights (IPR) belong to and stay with TechSoln and the their owner(s).
 
 
 TERMS OF USE
@@ -21,11 +18,11 @@ TERMS OF USE
 
 This template can be used for private and commercial websites under the following terms:
 
-    * You must attribute the work in the manner specified by OS Templates (author and licensor - see Attribution section below).
+    * You must attribute the work in the manner specified by (author and licensor - see Attribution section below).
 
     * If you use our work for your clients or friends website(s), you have to inform them of the licence that comes with the template(s)
 
-    * You can not claim intellectual property rights or exclusive ownership to any of our templates, modified or unmodified. All templates are the property of OS Templates.
+    * You can not claim intellectual property rights or exclusive ownership to any of our templates, modified or unmodified. 
 
     * You are not permitted to place any of our templates either modified or unmodified, on a diskette, CD, website or any other medium for distribution or re-distribution, rent, lease, sale or resale.
 
